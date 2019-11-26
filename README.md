@@ -5,8 +5,9 @@ This repository contains my final project for the course 1 "Machine Learning wit
 
 ## Requirements
 
-Python 3.7.4 (https://www.python.org/downloads/)
-pip3 (https://pip.pypa.io/en/stable/installing/)
+• Python 3.7.4 (https://www.python.org/downloads/)
+
+• pip3 (https://pip.pypa.io/en/stable/installing/)
 
 I highly recommend to create a virtual environment (https://virtualenv.pypa.io/en/latest/)!
 
